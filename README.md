@@ -153,7 +153,7 @@ The PDF report includes:
 ---
 **Screenshot Preview**
 
-![Image](https://github.com/user-attachments/assets/9daeb4ec-368f-4276-b500-08ffd4fa4f1d)
+![Image](https://github.com/user-attachments/assets/59d2e17c-fc16-4464-b2d6-982170e5fa5b)
 
 
 ## ⚠️ Limitations
