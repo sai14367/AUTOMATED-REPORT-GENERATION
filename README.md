@@ -12,9 +12,9 @@
 
 *MENTOR*: NEELA SANTOSH
 
-### 📌 Internship Project Submission
+###  Internship Project Submission
 
-## 📘 Project Description
+##  Project Description
 
 This project demonstrates how to automate the creation of professional PDF reports from raw data using Python. By combining data extraction, analysis, and report formatting in a single script, this project addresses the need for consistent and repeatable reporting workflows in academic, corporate, and research settings.
 
@@ -22,13 +22,13 @@ The script reads a CSV file containing structured data (like names and scores), 
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 Manual reporting is time-consuming, error-prone, and lacks consistency. As data continues to grow in size and complexity, automating the reporting process becomes a critical need for organizations. This project solves the problem of manual report creation by offering a lightweight, customizable Python tool for generating reports programmatically.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Automate reading data from a structured file (CSV)
 * Analyze and summarize data using Python
@@ -38,7 +38,7 @@ Manual reporting is time-consuming, error-prone, and lacks consistency. As data 
 
 ---
 
-## ⚙️ Key Features
+##  Key Features
 
 * Reads data from any CSV file (e.g., student marks, sales records)
 * Computes:
@@ -56,7 +56,7 @@ Manual reporting is time-consuming, error-prone, and lacks consistency. As data 
 
 ---
 
-## 📚 Technologies Used
+##  Technologies Used
 
 * **Python 3.7+**
 * **CSV module** (for data extraction)
@@ -65,7 +65,7 @@ Manual reporting is time-consuming, error-prone, and lacks consistency. As data 
 
 ---
 
-## 📂 Folder Structure
+##  Folder Structure
 
 ```
 Automated_Report_Generation/
@@ -78,7 +78,7 @@ Automated_Report_Generation/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the repository:
 
@@ -116,7 +116,7 @@ The script will generate a `report.pdf` in the current directory.
 
 ---
 
-## 🖨️ Output Format
+##  Output Format
 
 The PDF report includes:
 
@@ -133,16 +133,16 @@ The PDF report includes:
 
 ---
 
-## 🧪 Sample Use Cases
+##  Sample Use Cases
 
-* 📊 Student performance reporting
-* 📈 Sales reports for businesses
-* 📉 Survey summaries and results
-* 🧾 Invoice and receipt generation
+*  Student performance reporting
+*  Sales reports for businesses
+*  Survey summaries and results
+*  Invoice and receipt generation
 
 ---
 
-## 🎓 Learning Outcomes
+##  Learning Outcomes
 
 * Understand file handling in Python (CSV reading)
 * Learn how to compute basic statistics programmatically
@@ -156,7 +156,7 @@ The PDF report includes:
 ![Image](https://github.com/user-attachments/assets/59d2e17c-fc16-4464-b2d6-982170e5fa5b)
 
 
-## ⚠️ Limitations
+##  Limitations
 
 * CSV path is currently hardcoded; no GUI or dynamic file selection
 * No support for multi-page tables or charts
@@ -165,7 +165,7 @@ The PDF report includes:
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 * Add support for Excel (.xlsx) files
 * Add graphical charts using matplotlib
@@ -176,7 +176,7 @@ The PDF report includes:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please follow these steps:
 
@@ -186,7 +186,7 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 * **FPDF** — for making PDF generation accessible in Python
 * **Python Docs** — for reliable and thorough reference
@@ -194,7 +194,7 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Built by **Masanam Venkata Sai Kumar**
 Connect on [LinkedIn](https://www.linkedin.com/in/venkata-sai-kumar-masanam-56458a27b)
